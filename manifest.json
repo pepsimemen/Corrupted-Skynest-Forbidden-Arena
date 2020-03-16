@@ -1,1 +1,18 @@
-404: Not Found
+{
+    "files": {
+        "boss.js": "e8cd42c4bb02f3cbe6086639fd719f5c2db955e3a02b0421d32f8e86e0ca27a1",
+        "index.js": "3158d063e1dfde34c8f2cf2023e67ae2968d2fd35c82cc9d7a5b2afd79ebceb0",
+        "module.json": "23e5edecf7e556b14188521c7222eff9324afdc54c58f28cf34b55b10dedaf23"
+    },
+    "defs": {
+        "S_ABNORMALITY_BEGIN": 4,
+        "S_ABNORMALITY_END": 1,
+        "S_ACTION_STAGE": 9,
+        "S_BOSS_GAGE_INFO": 3,
+        "S_CHAT": 3,
+        "S_CREATURE_ROTATE": 2,
+        "S_DUNGEON_EVENT_MESSAGE": 2,
+        "S_PARTY_MARKER": 1,
+        "S_QUEST_BALLOON": 1
+    }
+}
