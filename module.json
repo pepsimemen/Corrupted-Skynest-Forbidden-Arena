@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "bad google translation for Corrupted Skynest and Dante's arena",
+    "options": {
+        "niceName": "CS & FA",
+        "guiName": "Corrupted Skynest & Forbbiden Arena Guide"
+    },
+    "author": "ZC,pepsi",
+    "description": "Corrupted Skynest Guide",
+    "servers": ["https://raw.githubusercontent.com/pepsimemen/Corrupted-Skynest-Forbidden-Arena/master/"],
+    "supportUrl": "https://github.com/pepsimemen/Corrupted-Skynest-Forbidden-Arena/issues",
+    "version": "91.04"
+}
