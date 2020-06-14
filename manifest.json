@@ -1,8 +1,9 @@
 {
     "files": {
         "boss.js": "e8cd42c4bb02f3cbe6086639fd719f5c2db955e3a02b0421d32f8e86e0ca27a1",
-        "index.js": "3158d063e1dfde34c8f2cf2023e67ae2968d2fd35c82cc9d7a5b2afd79ebceb0",
-        "module.json": "23e5edecf7e556b14188521c7222eff9324afdc54c58f28cf34b55b10dedaf23"
+        "index.js": "5cad879d33bbc1eac5abc06cff85b32a2ca9fb5df533f131a274ec0c5703d323",
+        "module.json": "23e5edecf7e556b14188521c7222eff9324afdc54c58f28cf34b55b10dedaf23",
+        "readme.md": "e44e1baf8aa642a47ce9081d7b8bfc11614b8d88257021f48ef14513778867d7"
     },
     "defs": {
         "S_ABNORMALITY_BEGIN": 4,

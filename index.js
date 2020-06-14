@@ -623,12 +623,16 @@ module.exports = function Tera_Guide(mod) {
 			if (event.stage!=0 || !(bossSkillID = CK_BOSS.find(obj => obj.id==skillid))) return;
 			// 内火->外冰
 			if ([212, 215].includes(skillid)) {
+					setTimeout(() => {
 				sendMessage(bossSkillID.msg + CK_TipMsg[(bossWord+myDeBuff)%2]);
+				}, 500);
 				return;
 			}
 			// 内冰->外火
 			if ([213, 214].includes(skillid)) {
+					setTimeout(() => {
 				sendMessage(bossSkillID.msg + CK_TipMsg[(bossWord+myDeBuff+1)%2]);
+				}, 500);
 				return;
 			}
 			sendMessage(bossSkillID.msg);
